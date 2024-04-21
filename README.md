@@ -2,7 +2,9 @@
 
 Desenvolvedor Web Front-end, desenvolvedor de software, sistemas, aplicativos mobile, lojas virtuais e blogs.
 
-<a href="https://portfolio-dev-drab.vercel.app/sobre-mim" target="_blank"><strong>Portfólio</strong></a>
+<a href="https://portfolio-dev-drab.vercel.app/" target="_blank"><strong>Portfólio</strong></a>
+
+<br/>
 
 <div>
   <img align="center" alt="HTML" title="HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
