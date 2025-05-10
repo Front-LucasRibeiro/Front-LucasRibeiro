@@ -1,8 +1,72 @@
-## Olá! Eu sou o Lucas Maranho
+# 👋 Lucas Maranho
 
-Desenvolvedor Web Front-end, desenvolvedor de software, sistemas, aplicativos mobile, lojas virtuais e blogs.
+### Desenvolvedor Full Stack | Especialista em E-commerce, React, Node.js & WordPress
 
-<a href="https://portfolio-dev-drab.vercel.app/" target="_blank"><strong>Portfólio</strong></a>
+Sou desenvolvedor full stack com foco em **Front-end**, apaixonado por transformar ideias em soluções digitais. Atuo desde 2016 com desenvolvimento de **sistemas**, **aplicativos mobile**, **e-commerces** e **landing pages**. Tenho uma base sólida em versionamento, testes e metodologias ágeis.
+
+---
+
+## 📂 Portfólio
+
+[https://portfolio-dev-drab.vercel.app](https://portfolio-dev-drab.vercel.app)
+
+---
+
+# 📅 Experiência Profissional
+
+## 💼 Osten Moove (06/2024 – Atual)
+
+**Desenvolvedor Full Stack**
+
+- Criação de plataforma para gestão de portfólios de startups.
+- Criação da plataforma talkness (app semelhante ao WhatsApp).
+- Desenvolvimento de simulador de gestão empresarial (xSkill) e outras demandas internas como landing pages e serviços diversos.
+- Tecnologias: ReactJS, NextJS, Styled Components, React Hook Forms, React Query, Zod, Redux, Jest, Material UI, NestJS, PostgreSQL, Azure, AWS, Typescript.
+
+## 💼 Seri.e Design (03/2021 – 09/2023)
+
+**Desenvolvedor Web Sênior**
+
+- Desenvolvimento e evolução de lojas virtuais e blogs para uma carteira de cerca de 200 clientes.
+- Validação de tarefas e revisão de código da equipe.
+- Sugestão de melhorias de processos internos e boas práticas.
+
+## 💼 Avanti (08/2020 – 02/2021)
+
+**Desenvolvedor Web Pleno**
+
+- Evolução de lojas VTEX com manutenção e novas funcionalidades.
+- Desenvolvimento orientado a objetos com boas práticas e componentização.
+
+## 🛒 Especialista em E-commerce
+
+**Plataformas:**
+Tray, Tray Corp, FBits/Wake, Nuvem Shop, Jet, VTEX CMS, VTEX IO, LINX, WordPress, VNDA, E-com Plus, deco.cx, Faststore, Saleor
+
+**Tecnologias utilizadas:**
+ReactJS, VueJS, JavaScript / jQuery, HTML / CSS, Sass / Scss, PHP / WordPress, GraphQL, Handlebars, Pug, Webpack / Gulp, Git / GitLab, Figma, Node.js, MongoDB, PostgreSQL, REST APIs, SEO, GTM
+
+---
+
+## 🚀 Tecnologias
+
+**Front-end:**
+HTML, CSS, JavaScript (ES6+), TypeScript, ReactJS, VueJS, AngularJS, SASS, Tailwind CSS, Bootstrap, NextJS, Svelte, Styled-components, Material UI, Chakra UI, ShadCn UI, Vite, Webpack, Gulp, Pug, Handlebars, EJS, Marko
+
+**Back-end:**
+Node.js, PHP, MySQL, MongoDB, PostgreSQL, NestJS, Express, Laravel, REST, JWT, Prisma, Swagger
+
+**Testes:**
+Jest, Jasmine
+
+**DevOps & Cloud:**
+Docker
+
+**Outros:**
+Git / GitHub / GitLab / CLI GitHub, Figma, GTM, WebSocket, RxJS, NGRX, MobX, Context API, Redux, Code Review, Micro serviços, Design System,  Clean Code, SOLID
+
+---
+
 
 <br/>
 
@@ -57,6 +121,9 @@ Desenvolvedor Web Front-end, desenvolvedor de software, sistemas, aplicativos mo
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+📍 Localização
+São Paulo, SP
 
 #
 
