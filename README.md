@@ -8,7 +8,7 @@ Sou desenvolvedor full stack com foco em **Front-end**, apaixonado por transform
 
 ## 📂 Portfólio
 
-[https://portfolio-dev-drab.vercel.app](https://portfolio-dev-drab.vercel.app){:target="_blank"}
+<a href="https://portfolio-dev-drab.vercel.app" target="_blank">https://portfolio-dev-drab.vercel.app</a>
 
 ---
 
@@ -81,8 +81,6 @@ Git / GitHub / GitLab / CLI GitHub, Figma, GTM, WebSocket, RxJS, NGRX, MobX, Con
   <img align="center" alt="WordPress" title="WordPress" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 
-
-
 #
 
 <div>
@@ -94,8 +92,7 @@ Git / GitHub / GitLab / CLI GitHub, Figma, GTM, WebSocket, RxJS, NGRX, MobX, Con
   </a>
 </div>
 
-
-📍 Localização
+📍 Localização  
 São Paulo, SP
 
 #
