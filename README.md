@@ -8,7 +8,7 @@ Sou desenvolvedor full stack com foco em **Front-end**, apaixonado por transform
 
 ## 📂 Portfólio
 
-[https://portfolio-dev-drab.vercel.app](https://portfolio-dev-drab.vercel.app)
+[https://portfolio-dev-drab.vercel.app](https://portfolio-dev-drab.vercel.app){:target="_blank"}
 
 ---
 
@@ -67,7 +67,6 @@ Git / GitHub / GitLab / CLI GitHub, Figma, GTM, WebSocket, RxJS, NGRX, MobX, Con
 
 ---
 
-
 <br/>
 
 <div>
@@ -102,9 +101,3 @@ São Paulo, SP
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Front-LucasRibeiro&layout=compact&theme=dark&langs_count=10)](https://github.com/Front-LucasRibeiro)
-
-  
-
-
-
-
