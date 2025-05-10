@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | Especialista em E-commerce, React, Node.js & WordPress
 
-Sou desenvolvedor full stack com foco em **Front-end**, apaixonado por transformar ideias em soluções digitais. Atuo desde 2016 com desenvolvimento de **sistemas**, **aplicativos mobile**, **e-commerces** e **landing pages**. Tenho uma base sólida em versionamento, testes e metodologias ágeis.
+Sou desenvolvedor full stack com foco em **Front-end**, apaixonado por transformar ideias em soluções digitais. Atuo desde 2017 com desenvolvimento de **sistemas**, **aplicativos mobile**, **e-commerces** e **landing pages**. Tenho uma base sólida em versionamento, testes e metodologias ágeis.
 
 ---
 
