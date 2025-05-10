@@ -18,8 +18,8 @@ Sou desenvolvedor full stack com foco em **Front-end**, apaixonado por transform
 
 **Desenvolvedor Full Stack**
 
-- Criação de plataforma para gestão de portfólios de startups.
-- Criação da plataforma talkness (app semelhante ao WhatsApp).
+- Desenvolvimento de plataforma para gestão de portfólios de startups.
+- Desenvolvimento da plataforma talkness (app semelhante ao WhatsApp).
 - Desenvolvimento de simulador de gestão empresarial (xSkill) e outras demandas internas como landing pages e serviços diversos.
 - Tecnologias: ReactJS, NextJS, Styled Components, React Hook Forms, React Query, Zod, Redux, Jest, Material UI, NestJS, PostgreSQL, Azure, AWS, Typescript.
 
