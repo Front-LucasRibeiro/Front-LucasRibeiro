@@ -14,6 +14,23 @@ Sou desenvolvedor full stack com foco em **Front-end**, apaixonado por transform
 
 # 📅 Experiência Profissional
 
+## 💼 Caixa Vida e Previdência (08/2025 – Atual)
+
+Alocado pela Hyti - Desenvolvimento de projetos Front-end na CVP
+
+Atuo como desenvolvedor front-end na CVP, contribuindo diretamente para a evolução dos produtos digitais voltados à área de seguros (Seguro Vida, Seguro Amparo e Seguro Bem-Estar). Trabalhando em melhorias significativas de layout, usabilidade e performance.
+
+Adicionando novas funcionalidades e manutenção da biblioteca de componentes reutilizáveis em React, alinhada ao Design System da Caixa, com integração de hooks específicos para os fluxos de checkout. Desenvolvimento do ambiente de setup automatizado para geração de arquivos de configuração (ESLint, Prettier, Leefthook, EditorConfig), garantindo padronização e escalabilidade entre os projetos.
+
+Tecnologias e ferramentas utilizadas:
+
+- React, TypeScript, Tailwind CSS, Zod, React Hook Form
+- Zustand para gerenciamento de estado
+- React Query para controle de dados assíncronos
+- ESLint, Prettier, Leefthook, EditorConfig para qualidade e consistência de código
+
+Essa experiência me permite atuar de forma estratégica na construção de soluções robustas, acessíveis e alinhadas às boas práticas de desenvolvimento Front-end moderno.
+
 ## 💼 Osten Moove (06/2024 – Atual)
 
 **Desenvolvedor Full Stack**
