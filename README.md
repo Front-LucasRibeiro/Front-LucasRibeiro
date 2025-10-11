@@ -31,7 +31,7 @@ Tecnologias e ferramentas utilizadas:
 
 Essa experiência me permite atuar de forma estratégica na construção de soluções robustas, acessíveis e alinhadas às boas práticas de desenvolvimento Front-end moderno.
 
-## 💼 Osten Moove (06/2024 – Atual)
+## 💼 Osten Moove (06/2024 – 08/2025)
 
 **Desenvolvedor Full Stack**
 
