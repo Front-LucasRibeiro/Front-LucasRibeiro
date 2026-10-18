@@ -58,6 +58,11 @@ Desenvolvedor Front-end Sênior com mais de 9 anos de experiência em **React**,
 
 - Evolução de lojas virtuais VTEX, com manutenção de código e novas funcionalidades.
 
+## 🎓 Estágios
+
+- **Agência Foster** · Estagiário em Desenvolvimento Web (11/2017 – 03/2019): sites institucionais com HTML, CSS e JavaScript.
+- **Triibo** · Estagiário em Desenvolvimento Web e Mobile (05/2017 – 06/2017): aplicativos com AngularJS, Ionic e Firebase.
+
 ---
 
 ## 🛒 Especialista em E-commerce
