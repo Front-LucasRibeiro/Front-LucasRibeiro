@@ -27,47 +27,60 @@ Desenvolvedor Front-end Sênior com mais de 9 anos de experiência em **React**,
 **Desenvolvedor Full Stack**
 
 - Desenvolvi a Ventiur, plataforma de gestão de portfólio de startups, atuando em front e back.
-- Construí a Talkness, plataforma de comunicação corporativa em tempo real (estilo WhatsApp).
-- Desenvolvi o simulador de gestão empresarial xSkill e landing pages de alta conversão.
+- Construí o front-end da Talkness, plataforma de comunicação corporativa em tempo real, com WebSocket, Socket.IO e IndexedDB.
+- Desenvolvi a plataforma de mentores e mentorados e evoluí o simulador de gestão empresarial xSkill.
+- Desenvolvi novas funcionalidades para as landing pages da Osten Moove e da Osten Games.
 
-**Tecnologias:** React, Next.js, TypeScript, Redux, React Query, Styled Components, Material UI, Jest, NestJS, PostgreSQL, Azure, AWS.
+**Tecnologias:** React, Next.js, TypeScript, Redux, React Query, Styled Components, Material UI, Jest, Socket.IO, IndexedDB, NestJS, PostgreSQL, Azure DevOps, AWS.
 
 ## 💼 Projetos Freelancer (2023 – atual)
 
 **Desenvolvedor Full Stack**
 
-- Criação de sites, lojas virtuais e sistemas sob medida para pequenas e médias empresas, da concepção à publicação, com mensuração via GA4, GTM e Meta Pixel.
+- Desenvolvimento de sites institucionais, landing pages e sistemas web sob medida para pequenas e médias empresas, da concepção à publicação.
+- Criação de lojas virtuais em plataformas como VTEX, Nuvemshop, WooCommerce, Tray, Wake, Jet e Linx.
+- Implementação de mensuração e analytics com GA4, Google Tag Manager e Meta Pixel.
 
 ## 💼 Agência SERI.E Design (03/2021 – 09/2023)
 
-**Desenvolvedor Web Sênior**
+**Desenvolvedor Web Sênior III** (promovido de Pleno I)
 
-- Desenvolvi e evoluí lojas virtuais e blogs para uma carteira de cerca de 200 clientes, com foco em VTEX.
-- Gerenciei estimativas de tarefas, validei entregas e revisei o código do time.
-- Propus melhorias de processo que otimizaram a entrega das demandas internas.
+- Desenvolvi e evoluí lojas VTEX para uma carteira de cerca de 200 clientes, como WePink e Mundial Calçados.
+- Migrei lojas do VTEX CMS para o VTEX IO e criei apps customizados com React e Node.js.
+- Customizei checkout, busca (Intelligent Search) e Master Data, e fiz integrações com ERPs, frete, pagamento e marketplaces.
+- Otimizei performance e SEO técnico, e preparei lojas para Black Friday e datas sazonais.
+- Gerenciei estimativas e code review, e atuei em contato direto com os clientes.
+
+**Tecnologias:** React, Vue.js, Node.js, JavaScript, jQuery, Sass, PHP, WordPress, GraphQL, REST APIs, Google Tag Manager, RD Station, Git/GitLab.
 
 ## 💼 Avanti Tecnologia & Marketing (08/2020 – 02/2021)
 
 **Desenvolvedor Front-end Pleno**
 
-- Evolução de lojas virtuais VTEX, com manutenção de código e desenvolvimento de novas funcionalidades.
+- Desenvolvi o fluxo de regionalização de preços por CEP do Supermercados Comper, que opera em 3 estados com tabelas de preço diferentes.
+- Evoluí lojas VTEX de marcas como Paquetá Esportes, Savegnago, Track&Field, Lojas Becker e Fort Atacadista.
+- Trabalhei com Master Data e lojas no VTEX IO.
 
 ## 💼 Profit-e / DRIVEN.CX (04/2019 – 07/2020)
 
 **Desenvolvedor Front-end Júnior**
 
-- Evolução de lojas virtuais VTEX, com manutenção de código e novas funcionalidades.
+- Evoluí lojas VTEX de marcas como Havaianas, Grendene, Estrela, Volvo, Casa&Vídeo, Pague Menos e Pernod Ricard.
+- Desenvolvi um consultor virtual para uma loja de autopeças, com filtros por montadora, modelo e ano, consumindo as APIs da VTEX.
+- Implementei paginação infinita com filtros integrada às APIs de catálogo e busca da VTEX.
 
 ## 🎓 Estágios
 
-- **Agência Foster** · Estagiário em Desenvolvimento Web (11/2017 – 03/2019): sites institucionais com HTML, CSS e JavaScript.
-- **Triibo** · Estagiário em Desenvolvimento Web e Mobile (05/2017 – 06/2017): aplicativos com AngularJS, Ionic e Firebase.
+- **Agência Foster (Grupo WPP)** · Estagiário em Desenvolvimento Web (11/2017 – 03/2019): sites institucionais e e-mails marketing responsivos para clientes como a Bayer.
+- **Triibo Negócios** · Estagiário em Desenvolvimento Web e Mobile (05/2017 – 06/2017): aplicativo de checklist offline para hotéis, com AngularJS, Ionic e Firebase.
 
 ---
 
 ## 🛒 Especialista em E-commerce
 
 **Plataformas:** VTEX IO, VTEX CMS, FastStore, deco.cx, Saleor, Tray, Tray Corp, FBits/Wake, Nuvemshop, Jet, LINX, VNDA, E-com Plus, WordPress/WooCommerce
+
+**VTEX:** apps customizados, migração do CMS para o IO, checkout, Master Data, Intelligent Search, regionalização por CEP e APIs de catálogo e busca
 
 ---
 
@@ -81,15 +94,15 @@ Desenvolvedor Front-end Sênior com mais de 9 anos de experiência em **React**,
 
 **Testes e qualidade:** Jest, Vitest, React Testing Library, Playwright, ESLint, Prettier, Lefthook
 
-**Back-end:** Node.js, NestJS, Express, PHP, Laravel, REST APIs, GraphQL, WebSocket, JWT, Prisma, Swagger
+**Back-end:** Node.js, NestJS, Express, PHP, Laravel, REST APIs, GraphQL, WebSocket, Socket.IO, JWT, Prisma, Swagger
 
-**Banco de dados:** PostgreSQL, MySQL, MongoDB, Firebase
+**Banco de dados:** PostgreSQL, MySQL, MongoDB, Firebase, IndexedDB
 
-**Cloud e DevOps:** Git, Docker, AWS, Azure, Google Cloud, Vercel, Railway, Cloudflare, Nginx, VPS Linux
+**Cloud e DevOps:** Git, Docker, AWS, Azure DevOps, Google Cloud, Vercel, Railway, Cloudflare, Nginx, VPS Linux
 
 **IA no desenvolvimento:** Claude Code, GitHub Copilot, MCP, agentes e skills customizados, prompt caching
 
-**Analytics e SEO:** Google Tag Manager, GA4, dataLayer, Matomo, Meta Pixel, SEO técnico, Schema.org
+**Analytics e SEO:** Google Tag Manager, GA4, dataLayer, Matomo, Meta Pixel, RD Station, SEO técnico, Schema.org
 
 **Práticas:** Clean Code, SOLID, Design System, Code Review, Scrum
 
